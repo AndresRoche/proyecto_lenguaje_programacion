@@ -12,7 +12,6 @@ de Programación.
 ## Estructura del proyecto
 
 ```
-proyecto/RpnRepl/
 ├── RpnRepl.csproj      # Proyecto de consola (.NET 9.0)
 ├── Program.cs          # Mini-REPL: bucle de lectura, captura de errores
 ├── Evaluador.cs        # Motor de evaluación postfija sobre pila
@@ -36,7 +35,6 @@ proyecto/RpnRepl/
 Desde la carpeta del proyecto:
 
 ```bash
-cd proyecto/RpnRepl
 dotnet build
 ```
 
