@@ -1,0 +1,43 @@
+# =========================
+# .NET / C# / Visual Studio
+# =========================
+
+# Salidas de compilación
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Carpeta de configuración de Visual Studio
+.vs/
+
+# Publicación
+publish/
+PublishProfiles/
+
+# NuGet
+*.nupkg
+*.nupkg.sha512
+nuget.config
+
+# ReSharper / Rider
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Logs y temporales
+*.log
+*.tmp
+*.temp
+
+# Resultados de pruebas
+*.trx
+TestResults/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
